@@ -8,7 +8,7 @@
 An interactive HR Analytics Dashboard built with Power BI using a 1000-row HR dataset across 10 departments. The dashboard provides real-time insights into employee headcount, attrition, salary, and gender distribution with interactive department filtering.
 
 ## 🖥️ Dashboard Preview
-![HR Analytics Dashboard](hr_dashboard.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard.PNG)
 
 ## ✨ Features
 
